@@ -3,6 +3,7 @@ gradlew
 gradlew.bat
 DEdDASS.iml
 package-lock.json
+yarn.lock
 
 # testing
 /coverage
